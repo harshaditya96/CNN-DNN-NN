@@ -1,6 +1,6 @@
 # Handwritten Digit Classification
 
-Task 1 : Our main task is to implement Multilayer Perceptro Neural Network and evaluate its performance in classifying handwritten digits. 
+Task 1 : Our main task is to implement Multilayer Perceptron Neural Network and evaluate its performance in classifying handwritten digits. 
 Task 2 : Compare performance of above network VS Deep Neural Network and Convolution Neural Network on celebrity face dataset using Tensoreflow library.
 
 Aim: 
