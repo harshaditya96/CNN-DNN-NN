@@ -22,7 +22,7 @@ fc_size = 128
 from tensorflow.examples.tutorials.mnist import input_data
 data = input_data.read_data_sets('data/MNIST/', one_hot=True)
 
-print("Size of:")
+print("Size of: Harsha")
 print("- Training-set:\t\t{}".format(len(data.train.labels)))
 print("- Test-set:\t\t{}".format(len(data.test.labels)))
 print("- Validation-set:\t{}".format(len(data.validation.labels)))
