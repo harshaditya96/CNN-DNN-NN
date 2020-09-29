@@ -57,7 +57,7 @@ n_input = train_data.shape[1]
 n_hidden = 256
 # set the number of nodes in output unit
 n_class = 2
-
+#python code sub-merging the weighted distirbutions and initializing the nodal attributes
 # initialize the weights into some random matrices
 initial_w1 = initializeWeights(n_input, n_hidden);
 initial_w2 = initializeWeights(n_hidden, n_class);
